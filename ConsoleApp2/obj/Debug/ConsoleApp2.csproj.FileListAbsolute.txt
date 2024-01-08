@@ -1,0 +1,15 @@
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\bin\Debug\NUnit3.TestAdapter.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\bin\Debug\NUnit3.TestAdapter.pdb
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\bin\Debug\nunit.engine.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\bin\Debug\nunit.engine.api.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\bin\Debug\nunit.engine.core.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\bin\Debug\nunit.framework.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\bin\Debug\nunit.framework.xml
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\mphasis Simplilearn\Phase3\Assignment\Day2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
